@@ -1,2 +1,2 @@
 # cenetriodMinstDataSet
-apply a centroid function to minst dataset and apply knn algorithm to predict the accuarcy of it 
+Classifiy mnist dataset with creating feature centroid by split image to grid and get the centroid then using machine learning algorithm (kNN)  to classifiy it 
